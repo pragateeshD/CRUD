@@ -53,5 +53,5 @@ app.delete('/deleteUser/:id', (req, res) => {
 
 // Start the server on port 3001
 app.listen(3001, () => {
-    console.log("Server is running");
+    con sole.log("Server is running");
 });
