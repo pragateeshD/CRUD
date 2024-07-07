@@ -3,7 +3,7 @@ const  mongoose = require('mongoose')//model for user tabel
         {
             name: Strring,
             email:Strring,
-            age:Nuumber
+            age:Number
         }
     )
 const UserModel =mongoose.model("users",UserSchema)//this is the model for user "users"-> refer to the collection we created in mongodb is"users" UserSchema -> is the scheme for storing user data     
