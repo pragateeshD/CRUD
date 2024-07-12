@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Users from './Users';
 import CreateUser from './CreateUser';
-import UpdateUser from './UpdaateUser';
+import UpdateUser from './UpdateUser';
 
 function App() {
   const [count, setCount] = useState(0);
