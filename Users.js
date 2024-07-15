@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')//model for user tabel
     const UserSchema = new mongoose.Schema(
         {
-            name: Strring,
+            name: String,
             email:String,
             age:Number
         }
