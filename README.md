@@ -1,6 +1,6 @@
 MERN Stack CRUD Operations
 
-<p>This repository contains a CRUD (Create, Read, Update, Delete) operation project built using the MERN stack. The MERN stack includes MongoDB for the database, Express and Node.js for the server-side application, and React for the client-side user interface.</p>
+<p>This repository contains a CRUD (Create, Read, Updat e, Delete) operation project built using the MERN stack. The MERN stack includes MongoDB for the database, Express and Node.js for the server-side application, and React for the client-side user interface.</p>
 <h3>Features:</h3>
 <ul>
     <li><strong>Create:</strong> Add new records to the database.</li>
